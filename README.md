@@ -40,7 +40,7 @@ Technical Details
 
 1. Clone the repository:
    ```
-   git clone 
+   git clone https://github.com/Hurricane0017/Efficient-Data-Stream-Anomaly-Detection.git
    cd Efficient-Data-Stream-Anomaly-Detection
    ```
 
